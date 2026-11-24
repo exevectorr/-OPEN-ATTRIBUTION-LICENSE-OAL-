@@ -1,0 +1,199 @@
+            OPEN ATTRIBUTION LICENSE (OAL) 1.1
+               version 2, november 24 2026
+             Copyright (c) 2026 exevectorr
+
+PREAMBLE
+This License grants broad rights to use, copy, modify, distribute, and commercially use the Software while requiring preservation of the original Copyright Holder's attribution.
+
+This version introduces a mandatory open-source requirement for Modified Works. Any distributed Modified Work must make its complete corresponding source code available under this License.
+
+DEFINITIONS
+"Software" means the software, operating system, source code, binaries, documentation, assets, and other materials distributed under this License.
+"Original Work" means the Software as originally published by the Copyright Holder.
+"Modified Work" means any version of the Software that has been changed, modified, extended, translated, or otherwise altered by any person or organization.
+"Copyright Holder" means the person or organization identified in the copyright notice accompanying the Software.
+"Original Attribution" means any copyright notice, author name, creator credit, project credit, attribution statement, or other identification of the Copyright Holder contained in the Original Work.
+"Source Code" means the preferred form of the Software for making modifications, including relevant source files, configuration files, build scripts, and other materials reasonably necessary to modify and build the Software.
+"Distribution" means making copies of the Software or a Modified Work available to another person or organization, whether free of charge or for a fee.
+
+GRANT OF RIGHTS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Software, to use, copy, modify, study, create derivative works from, distribute, and commercially use the Software, subject to the terms and conditions of this License.
+These permissions are granted worldwide and are not limited by the number of copies, users, devices, installations, or distribution methods.
+
+PERMITTED USE
+
+The Software may be:
+* Used for any lawful purpose.
+* Used privately.
+* Used commercially.
+* Copied.
+* Modified.
+* Studied.
+* Included in other projects.
+* Distributed in original or modified form.
+* Sold or otherwise distributed for a fee.
+* Used to create derivative works.
+
+All permitted uses remain subject to the requirements of this License.
+
+ATTRIBUTION REQUIREMENT
+
+The Original Attribution must remain unchanged in every copy and Modified Work distributed under this License.
+
+The Original Attribution includes, but is not limited to:
+* Copyright notices.
+* Author names.
+* Creator credits.
+* Project credits.
+* Attribution statements.
+* Credits contained in README files.
+* Credits contained in documentation.
+* Credits contained in source-code comments.
+* Credits contained in source files.
+* Credits contained in graphical assets.
+* Credits contained in metadata.
+* Other attribution included in the Original Work.
+
+The Original Attribution must not be removed, altered, obscured, replaced, or relocated in a manner that causes the original attribution to be lost or misleading.
+If the Original Work contains attribution in a README file, that attribution must remain in that README file.
+If the Original Work contains attribution in a source-code comment, that attribution must remain in that source-code comment.
+If the Original Work contains attribution in documentation or another file, that attribution must remain in the corresponding file.
+
+PROHIBITION ON ADDITIONAL CREATOR ATTRIBUTION
+
+A person or organization modifying the Software may not add their own name, username, organization name, copyright notice, creator credit, authorship claim, or other attribution identifying themselves as a creator of the Original Work.
+Modification of the Software does not grant the modifier the right to identify themselves as a creator, co-creator, author, or copyright holder of the Original Work.
+A modifier may not insert their own attribution into the Original Attribution, existing credit sections, README credit sections, source-code credit sections, documentation credit sections, or other locations containing the Original Attribution.
+A modifier may not replace "Copyright (c) 2026 exevectorr" or any other Original Attribution with their own name or attribution.
+
+MODIFICATIONS
+
+Modification of the Software is expressly permitted.
+A modifier may add, remove, change, rewrite, translate, or otherwise alter functionality and source code, provided that the requirements of this License are followed.
+Modifications do not transfer ownership of the Original Work.
+A modifier may not represent the Original Work as their own creation.
+A modifier may not claim authorship or ownership of the Original Work merely because they have modified it.
+
+OPEN-SOURCE REQUIREMENT
+
+Any Modified Work distributed by a person or organization MUST be open source.
+This requirement applies regardless of whether the Modified Work is distributed free of charge or commercially.
+The complete corresponding Source Code of the Modified Work must be made available to recipients.
+
+The Source Code must:
+* Include all source-code changes made to the Original Work.
+* Include additional source files necessary to build and modify the Modified Work.
+* Include relevant configuration and build files.
+* Be provided in a form reasonably suitable for further modification.
+* Not be deliberately obfuscated or withheld.
+* Be distributed under the terms of OAL 1.1.
+
+If a Modified Work is distributed publicly, its corresponding Source Code must also be made publicly accessible.
+If a Modified Work is distributed privately to specific recipients, those recipients must receive access to its corresponding Source Code.
+A person or organization may not distribute a Modified Work as closed-source or proprietary software.
+A person or organization may not distribute compiled binaries of a Modified Work while withholding its corresponding Source Code.
+Modifications that are kept entirely private and are not distributed do not trigger a requirement to publish the Source Code.
+
+SAME-LICENSE REQUIREMENT
+
+All Modified Works based upon the Original Work must be distributed under OAL 1.1.
+A modifier may not replace OAL 1.1 with a proprietary license or another license that removes or restricts the rights granted by OAL 1.1.
+Additional terms may be applied to independently created components, provided that they do not restrict the rights granted by this License to the Original Work or its Modified Work.
+
+LICENSE PRESERVATION
+
+A complete copy of this License must accompany every distribution of the Software or a substantial portion of the Software.
+The original License must not be removed from distributions of the Original Work.
+This License must not be modified, replaced, or removed and represented as the original Open Attribution License (OAL) 1.1.
+Modified Works must retain the original license and comply with the Open-Source Requirement and Same-License Requirement.
+
+DISTRIBUTION
+
+The Original Work and Modified Works may be distributed in source-code, binary, executable, disk-image, physical-media, or any other form.
+The Software may be distributed free of charge or for a fee.
+The Software may be distributed through websites, repositories, package managers, physical media, commercial products, or other distribution methods.
+All distributions must comply with the Attribution Requirement, Open-Source Requirement, Same-License Requirement, and License Preservation requirements of this License.
+
+COMMERCIAL USE
+
+Commercial use is expressly permitted.
+The Software may be sold, included in commercial products, distributed for a fee, or used to provide commercial services.
+Commercial use does not remove or reduce any requirement contained in this License.
+A person or organization may charge for distributing a Modified Work, but may not withhold its corresponding Source Code from recipients.
+
+PRIVATE USE
+
+Private use is expressly permitted.
+The Software may be used, copied, modified, and studied for personal purposes without obtaining additional permission from the Copyright Holder.
+Modifications kept entirely private and not distributed do not need to be publicly released.
+
+PATENT GRANT
+
+To the extent that the Copyright Holder owns patent rights that are necessarily infringed by the Software itself, the Copyright Holder grants recipients a worldwide, non-exclusive, royalty-free patent license to use, make, modify, and distribute the Software.
+This patent grant does not apply to patent claims resulting solely from modifications or combinations created by another party.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, PERFORMANCE, ACCURACY, RELIABILITY, AND FREEDOM FROM DEFECTS.
+
+THE COPYRIGHT HOLDER DOES NOT GUARANTEE THAT THE SOFTWARE WILL:
+* Function correctly.
+* Be free of bugs.
+* Be free of security vulnerabilities.
+* Be compatible with any particular hardware or software.
+* Preserve data.
+* Operate without interruption.
+* Meet any particular purpose or requirement.
+
+LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+THIS INCLUDES, BUT IS NOT LIMITED TO:
+* Data loss.
+* File loss.
+* Hardware damage.
+* Software damage.
+* System failure.
+* Loss of profits.
+* Business interruption.
+* Security incidents.
+* Loss of access.
+* Direct damages.
+* Indirect damages.
+* Incidental damages.
+* Special damages.
+* Consequential damages.
+
+THE USER ASSUMES RESPONSIBILITY FOR USING THE SOFTWARE AND FOR ANY CONSEQUENCES RESULTING FROM SUCH USE.
+NO ADDITIONAL PERMISSION REQUIRED
+No additional permission from the Copyright Holder is required to exercise the rights expressly granted by this License, provided that all conditions of this License are followed.
+
+TERMINATION
+
+Rights granted under this License automatically terminate upon violation of its terms.
+If the violation is corrected, the Copyright Holder may, at their discretion, restore the terminated rights.
+Termination does not affect rights that were validly granted to other recipients before termination, except where applicable law provides otherwise.
+
+COPYRIGHT OWNERSHIP
+
+This License does not transfer ownership of the Original Work.
+All copyright and other intellectual-property rights in the Original Work remain with the Copyright Holder, except for the permissions expressly granted by this License.
+
+ACCEPTANCE
+
+By using, copying, modifying, or distributing the Software, you agree to comply with the terms of the Open Attribution License (OAL) 1.1.
+If you do not agree to these terms, you may not exercise the rights granted by this License.
+
+LICENSE VERSION
+
+This License is identified as:
+Open Attribution License (OAL) 1.1
+OAL 1.1 supersedes OAL 1.0 for projects explicitly distributed under OAL 1.1.
+Software originally distributed under OAL 1.0 remains subject to OAL 1.0 unless its Copyright Holder explicitly relicenses it under OAL 1.1.
+Future versions of the Open Attribution License may contain different terms. This version remains applicable to Software specifically distributed under OAL 1.1 unless the Copyright Holder explicitly states otherwise.
+
+License copyright (c) exevectorr 2026
+END OF LICENSE
